@@ -1,0 +1,429 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Fitness.WebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Fitness.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Fitness.Application.csproj",
+        "projectName": "Fitness.Application",
+        "projectPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Fitness.Application.csproj",
+        "packagesPath": "C:\\Users\\Kurbanaev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kurbanaev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Fitness.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Fitness.Domain.csproj"
+              },
+              "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\Fitness.Shared.csproj": {
+                "projectPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\Fitness.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Fitness.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Fitness.Domain.csproj",
+        "projectName": "Fitness.Domain",
+        "projectPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Fitness.Domain.csproj",
+        "packagesPath": "C:\\Users\\Kurbanaev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kurbanaev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\Fitness.Shared.csproj": {
+                "projectPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\Fitness.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Fitness.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Fitness.Infrastructure.csproj",
+        "projectName": "Fitness.Infrastructure",
+        "projectPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Fitness.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Kurbanaev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kurbanaev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Fitness.Application.csproj": {
+                "projectPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Fitness.Application.csproj"
+              },
+              "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\Fitness.Shared.csproj": {
+                "projectPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\Fitness.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\Fitness.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\Fitness.Shared.csproj",
+        "projectName": "Fitness.Shared",
+        "projectPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\Fitness.Shared.csproj",
+        "packagesPath": "C:\\Users\\Kurbanaev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kurbanaev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Fitness.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Fitness.WebUI.csproj",
+        "projectName": "Fitness.WebUI",
+        "projectPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Fitness.WebUI.csproj",
+        "packagesPath": "C:\\Users\\Kurbanaev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kurbanaev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Fitness.Application.csproj": {
+                "projectPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Fitness.Application.csproj"
+              },
+              "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Fitness.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Fitness.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

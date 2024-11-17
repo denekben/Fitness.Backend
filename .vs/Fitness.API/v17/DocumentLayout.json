@@ -1,0 +1,889 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.infrastructure\\reporitories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|solutionrelative:fitness.infrastructure\\reporitories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.infrastructure\\reporitories\\logreporitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|solutionrelative:fitness.infrastructure\\reporitories\\logreporitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.infrastructure\\reporitories\\exerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|solutionrelative:fitness.infrastructure\\reporitories\\exerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|solutionrelative:fitness.webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.infrastructure\\reporitories\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|solutionrelative:fitness.infrastructure\\reporitories\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.webui\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|solutionrelative:fitness.webui\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|solutionrelative:fitness.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.infrastructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|solutionrelative:fitness.infrastructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.domain\\repositories\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|solutionrelative:fitness.domain\\repositories\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.shared\\dtos\\logs\\reportlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|solutionrelative:fitness.shared\\dtos\\logs\\reportlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.shared\\dtos\\logs\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|solutionrelative:fitness.shared\\dtos\\logs\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.shared\\dtos\\logs\\userlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|solutionrelative:fitness.shared\\dtos\\logs\\userlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.domain\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|solutionrelative:fitness.domain\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\reports\\commands\\createreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\reports\\commands\\createreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\exercises\\commands\\createexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\exercises\\commands\\createexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\exercises\\queries\\handlers\\getexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\exercises\\queries\\handlers\\getexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.shared\\dtos\\createexercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|solutionrelative:fitness.shared\\dtos\\createexercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.shared\\dtos\\editexercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|solutionrelative:fitness.shared\\dtos\\editexercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.domain\\entities\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|solutionrelative:fitness.domain\\entities\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.webui\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|solutionrelative:fitness.webui\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\reports\\commands\\handlers\\createreporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\reports\\commands\\handlers\\createreporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\reports\\commands\\updatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\reports\\commands\\updatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.domain\\entities\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|solutionrelative:fitness.domain\\entities\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.domain\\entities\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|solutionrelative:fitness.domain\\entities\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.domain\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|solutionrelative:fitness.domain\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\requests\\queries\\handlers\\getcurrentuserrequestshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\requests\\queries\\handlers\\getcurrentuserrequestshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.webui\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|solutionrelative:fitness.webui\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.domain\\repositories\\irequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|solutionrelative:fitness.domain\\repositories\\irequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.domain\\repositories\\iexerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|solutionrelative:fitness.domain\\repositories\\iexerciserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\requests\\commands\\acceptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\requests\\commands\\acceptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.webui\\controllers\\tariffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|solutionrelative:fitness.webui\\controllers\\tariffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.shared\\dtos\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|solutionrelative:fitness.shared\\dtos\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.shared\\dtos\\tariffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEB6529-F948-4DEB-AA68-A6A736654D4F}|Fitness.Shared\\Fitness.Shared.csproj|solutionrelative:fitness.shared\\dtos\\tariffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\exercises\\queries\\getexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\exercises\\queries\\getexercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.infrastructure\\reporitories\\tariffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|solutionrelative:fitness.infrastructure\\reporitories\\tariffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.infrastructure\\reporitories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|solutionrelative:fitness.infrastructure\\reporitories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\exercises\\commands\\updateexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\exercises\\commands\\updateexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\tariffs\\commands\\updatetariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\tariffs\\commands\\updatetariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\reports\\commands\\handlers\\updatereporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\reports\\commands\\handlers\\updatereporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\timeintervals\\commands\\handlers\\updatetimeintervalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\timeintervals\\commands\\handlers\\updatetimeintervalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.webui\\controllers\\timeintervalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|solutionrelative:fitness.webui\\controllers\\timeintervalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.webui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|solutionrelative:fitness.webui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\users\\queries\\handlers\\getcurrentuserinfohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\users\\queries\\handlers\\getcurrentuserinfohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\users\\queries\\getcurrentuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\users\\queries\\getcurrentuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\tariffs\\commands\\createtariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\tariffs\\commands\\createtariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\users\\queries\\getcoaches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\users\\queries\\getcoaches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\users\\queries\\handlers\\getcoacheshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\users\\queries\\handlers\\getcoacheshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A62714-7FDE-4403-81C8-8A3E25341448}|Fitness.Domain\\Fitness.Domain.csproj|solutionrelative:fitness.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\requests\\commands\\handlers\\acceptrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\requests\\commands\\handlers\\acceptrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.webui\\controllers\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|solutionrelative:fitness.webui\\controllers\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.webui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD2CF004-7AB9-4004-9CC8-2AF39EE8C1AE}|Fitness.WebUI\\Fitness.WebUI.csproj|solutionrelative:fitness.webui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.infrastructure\\applicationservices\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223FF091-EB6F-4A2C-BB05-DCD333E8447E}|Fitness.Infrastructure\\Fitness.Infrastructure.csproj|solutionrelative:fitness.infrastructure\\applicationservices\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\exercises\\commands\\handlers\\createexercisehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\exercises\\commands\\handlers\\createexercisehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|c:\\users\\kurbanaev\\source\\repos\\fitness\\fitness.api\\fitness.application\\exercises\\commands\\handlers\\updateexercisehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9D7C9D-F75A-4958-9649-3EF232AD0444}|Fitness.Application\\Fitness.Application.csproj|solutionrelative:fitness.application\\exercises\\commands\\handlers\\updateexercisehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Repositories\\IReportRepository.cs",
+              "RelativeDocumentMoniker": "Fitness.Domain\\Repositories\\IReportRepository.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Repositories\\IReportRepository.cs",
+              "RelativeToolTip": "Fitness.Domain\\Repositories\\IReportRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:46:28.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Extensions.cs",
+              "RelativeDocumentMoniker": "Fitness.Infrastructure\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Extensions.cs",
+              "RelativeToolTip": "Fitness.Infrastructure\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:25:54.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "Fitness.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Program.cs",
+              "RelativeToolTip": "Fitness.WebUI\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:10:56.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Reporitories\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "Fitness.Infrastructure\\Reporitories\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Reporitories\\ReportRepository.cs",
+              "RelativeToolTip": "Fitness.Infrastructure\\Reporitories\\ReportRepository.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAkwFsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:19:12.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateReport.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Reports\\Commands\\CreateReport.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Reports\\Commands\\CreateReport.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Reports\\Commands\\CreateReport.cs",
+              "RelativeToolTip": "Fitness.Application\\Reports\\Commands\\CreateReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:49:26.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogReporitory.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Reporitories\\LogReporitory.cs",
+              "RelativeDocumentMoniker": "Fitness.Infrastructure\\Reporitories\\LogReporitory.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Reporitories\\LogReporitory.cs",
+              "RelativeToolTip": "Fitness.Infrastructure\\Reporitories\\LogReporitory.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:17:03.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Fitness.WebUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Fitness.WebUI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:26:25.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Reporitories\\RequestRepository.cs",
+              "RelativeDocumentMoniker": "Fitness.Infrastructure\\Reporitories\\RequestRepository.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Reporitories\\RequestRepository.cs",
+              "RelativeToolTip": "Fitness.Infrastructure\\Reporitories\\RequestRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:59:00.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateExerciseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\CreateExerciseDto.cs",
+              "RelativeDocumentMoniker": "Fitness.Shared\\DTOs\\CreateExerciseDto.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\CreateExerciseDto.cs",
+              "RelativeToolTip": "Fitness.Shared\\DTOs\\CreateExerciseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:15:04.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExerciseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Reporitories\\ExerciseRepository.cs",
+              "RelativeDocumentMoniker": "Fitness.Infrastructure\\Reporitories\\ExerciseRepository.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Reporitories\\ExerciseRepository.cs",
+              "RelativeToolTip": "Fitness.Infrastructure\\Reporitories\\ExerciseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:34:15.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Entities\\Exercise.cs",
+              "RelativeDocumentMoniker": "Fitness.Domain\\Entities\\Exercise.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Entities\\Exercise.cs",
+              "RelativeToolTip": "Fitness.Domain\\Entities\\Exercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:13:35.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "Fitness.WebUI\\Controllers\\LogsController.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "Fitness.WebUI\\Controllers\\LogsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:16:08.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserLog.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\Logs\\UserLog.cs",
+              "RelativeDocumentMoniker": "Fitness.Shared\\DTOs\\Logs\\UserLog.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\Logs\\UserLog.cs",
+              "RelativeToolTip": "Fitness.Shared\\DTOs\\Logs\\UserLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:18:07.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequestLog.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\Logs\\RequestLog.cs",
+              "RelativeDocumentMoniker": "Fitness.Shared\\DTOs\\Logs\\RequestLog.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\Logs\\RequestLog.cs",
+              "RelativeToolTip": "Fitness.Shared\\DTOs\\Logs\\RequestLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:18:15.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Repositories\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "Fitness.Domain\\Repositories\\ILogRepository.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Repositories\\ILogRepository.cs",
+              "RelativeToolTip": "Fitness.Domain\\Repositories\\ILogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:21:55.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportLog.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\Logs\\ReportLog.cs",
+              "RelativeDocumentMoniker": "Fitness.Shared\\DTOs\\Logs\\ReportLog.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\Logs\\ReportLog.cs",
+              "RelativeToolTip": "Fitness.Shared\\DTOs\\Logs\\ReportLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:18:22.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Fitness.WebUI\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Fitness.WebUI\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwBwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:27:54.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditExerciseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\EditExerciseDto.cs",
+              "RelativeDocumentMoniker": "Fitness.Shared\\DTOs\\EditExerciseDto.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\EditExerciseDto.cs",
+              "RelativeToolTip": "Fitness.Shared\\DTOs\\EditExerciseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:58:50.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetExercises.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Exercises\\Queries\\Handlers\\GetExercises.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Exercises\\Queries\\Handlers\\GetExercises.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Exercises\\Queries\\Handlers\\GetExercises.cs",
+              "RelativeToolTip": "Fitness.Application\\Exercises\\Queries\\Handlers\\GetExercises.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:35:26.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateExercise.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Exercises\\Commands\\CreateExercise.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Exercises\\Commands\\CreateExercise.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Exercises\\Commands\\CreateExercise.cs",
+              "RelativeToolTip": "Fitness.Application\\Exercises\\Commands\\CreateExercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:38:34.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateReportHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Reports\\Commands\\Handlers\\CreateReportHandler.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Reports\\Commands\\Handlers\\CreateReportHandler.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Reports\\Commands\\Handlers\\CreateReportHandler.cs",
+              "RelativeToolTip": "Fitness.Application\\Reports\\Commands\\Handlers\\CreateReportHandler.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwBkAAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:49:16.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateReport.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Reports\\Commands\\UpdateReport.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Reports\\Commands\\UpdateReport.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Reports\\Commands\\UpdateReport.cs",
+              "RelativeToolTip": "Fitness.Application\\Reports\\Commands\\UpdateReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:49:36.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Entities\\Request.cs",
+              "RelativeDocumentMoniker": "Fitness.Domain\\Entities\\Request.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Entities\\Request.cs",
+              "RelativeToolTip": "Fitness.Domain\\Entities\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:58:10.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Tariff.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Entities\\Tariff.cs",
+              "RelativeDocumentMoniker": "Fitness.Domain\\Entities\\Tariff.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Entities\\Tariff.cs",
+              "RelativeToolTip": "Fitness.Domain\\Entities\\Tariff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:22:31.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Entities\\Report.cs",
+              "RelativeDocumentMoniker": "Fitness.Domain\\Entities\\Report.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Entities\\Report.cs",
+              "RelativeToolTip": "Fitness.Domain\\Entities\\Report.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:14:30.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "Fitness.WebUI\\Controllers\\RequestController.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "Fitness.WebUI\\Controllers\\RequestController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:36:16.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetCurrentUserRequestsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Requests\\Queries\\Handlers\\GetCurrentUserRequestsHandler.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Requests\\Queries\\Handlers\\GetCurrentUserRequestsHandler.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Requests\\Queries\\Handlers\\GetCurrentUserRequestsHandler.cs",
+              "RelativeToolTip": "Fitness.Application\\Requests\\Queries\\Handlers\\GetCurrentUserRequestsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:27:18.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Repositories\\IRequestRepository.cs",
+              "RelativeDocumentMoniker": "Fitness.Domain\\Repositories\\IRequestRepository.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Repositories\\IRequestRepository.cs",
+              "RelativeToolTip": "Fitness.Domain\\Repositories\\IRequestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:01:16.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AcceptRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Requests\\Commands\\AcceptRequest.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Requests\\Commands\\AcceptRequest.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Requests\\Commands\\AcceptRequest.cs",
+              "RelativeToolTip": "Fitness.Application\\Requests\\Commands\\AcceptRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:06:43.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TariffDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\TariffDto.cs",
+              "RelativeDocumentMoniker": "Fitness.Shared\\DTOs\\TariffDto.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\TariffDto.cs",
+              "RelativeToolTip": "Fitness.Shared\\DTOs\\TariffDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:22:42.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetExercises.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Exercises\\Queries\\GetExercises.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Exercises\\Queries\\GetExercises.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Exercises\\Queries\\GetExercises.cs",
+              "RelativeToolTip": "Fitness.Application\\Exercises\\Queries\\GetExercises.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:35:01.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TariffRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Reporitories\\TariffRepository.cs",
+              "RelativeDocumentMoniker": "Fitness.Infrastructure\\Reporitories\\TariffRepository.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Reporitories\\TariffRepository.cs",
+              "RelativeToolTip": "Fitness.Infrastructure\\Reporitories\\TariffRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:04:49.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IExerciseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Repositories\\IExerciseRepository.cs",
+              "RelativeDocumentMoniker": "Fitness.Domain\\Repositories\\IExerciseRepository.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Repositories\\IExerciseRepository.cs",
+              "RelativeToolTip": "Fitness.Domain\\Repositories\\IExerciseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:34:48.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TariffController.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\TariffController.cs",
+              "RelativeDocumentMoniker": "Fitness.WebUI\\Controllers\\TariffController.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\TariffController.cs",
+              "RelativeToolTip": "Fitness.WebUI\\Controllers\\TariffController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:36:19.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateExercise.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Exercises\\Commands\\UpdateExercise.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Exercises\\Commands\\UpdateExercise.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Exercises\\Commands\\UpdateExercise.cs",
+              "RelativeToolTip": "Fitness.Application\\Exercises\\Commands\\UpdateExercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:33:53.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\RequestDto.cs",
+              "RelativeDocumentMoniker": "Fitness.Shared\\DTOs\\RequestDto.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Shared\\DTOs\\RequestDto.cs",
+              "RelativeToolTip": "Fitness.Shared\\DTOs\\RequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:58:47.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Reporitories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Fitness.Infrastructure\\Reporitories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\Reporitories\\UserRepository.cs",
+              "RelativeToolTip": "Fitness.Infrastructure\\Reporitories\\UserRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvyAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:13:29.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateReportHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Reports\\Commands\\Handlers\\UpdateReportHandler.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Reports\\Commands\\Handlers\\UpdateReportHandler.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Reports\\Commands\\Handlers\\UpdateReportHandler.cs",
+              "RelativeToolTip": "Fitness.Application\\Reports\\Commands\\Handlers\\UpdateReportHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:37:50.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateTariff.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Tariffs\\Commands\\UpdateTariff.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Tariffs\\Commands\\UpdateTariff.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Tariffs\\Commands\\UpdateTariff.cs",
+              "RelativeToolTip": "Fitness.Application\\Tariffs\\Commands\\UpdateTariff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:22:09.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateTimeIntervalHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\TimeIntervals\\Commands\\Handlers\\UpdateTimeIntervalHandler.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\TimeIntervals\\Commands\\Handlers\\UpdateTimeIntervalHandler.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\TimeIntervals\\Commands\\Handlers\\UpdateTimeIntervalHandler.cs",
+              "RelativeToolTip": "Fitness.Application\\TimeIntervals\\Commands\\Handlers\\UpdateTimeIntervalHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:05:08.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TimeIntervalController.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\TimeIntervalController.cs",
+              "RelativeDocumentMoniker": "Fitness.WebUI\\Controllers\\TimeIntervalController.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\TimeIntervalController.cs",
+              "RelativeToolTip": "Fitness.WebUI\\Controllers\\TimeIntervalController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:36:22.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateTariff.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Tariffs\\Commands\\CreateTariff.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Tariffs\\Commands\\CreateTariff.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Tariffs\\Commands\\CreateTariff.cs",
+              "RelativeToolTip": "Fitness.Application\\Tariffs\\Commands\\CreateTariff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:22:14.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetCurrentUserInfoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Users\\Queries\\Handlers\\GetCurrentUserInfoHandler.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Users\\Queries\\Handlers\\GetCurrentUserInfoHandler.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Users\\Queries\\Handlers\\GetCurrentUserInfoHandler.cs",
+              "RelativeToolTip": "Fitness.Application\\Users\\Queries\\Handlers\\GetCurrentUserInfoHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:34:52.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetCurrentUserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Users\\Queries\\GetCurrentUserInfo.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Users\\Queries\\GetCurrentUserInfo.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Users\\Queries\\GetCurrentUserInfo.cs",
+              "RelativeToolTip": "Fitness.Application\\Users\\Queries\\GetCurrentUserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:31:14.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Fitness.WebUI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Fitness.WebUI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:26:27.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetCoaches.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Users\\Queries\\GetCoaches.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Users\\Queries\\GetCoaches.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Users\\Queries\\GetCoaches.cs",
+              "RelativeToolTip": "Fitness.Application\\Users\\Queries\\GetCoaches.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:29:24.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Fitness.Domain\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Domain\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Fitness.Domain\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:13:40.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetCoachesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Users\\Queries\\Handlers\\GetCoachesHandler.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Users\\Queries\\Handlers\\GetCoachesHandler.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Users\\Queries\\Handlers\\GetCoachesHandler.cs",
+              "RelativeToolTip": "Fitness.Application\\Users\\Queries\\Handlers\\GetCoachesHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:34:38.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AcceptRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Requests\\Commands\\Handlers\\AcceptRequestHandler.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Requests\\Commands\\Handlers\\AcceptRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Requests\\Commands\\Handlers\\AcceptRequestHandler.cs",
+              "RelativeToolTip": "Fitness.Application\\Requests\\Commands\\Handlers\\AcceptRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:07:15.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ExerciseController.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\ExerciseController.cs",
+              "RelativeDocumentMoniker": "Fitness.WebUI\\Controllers\\ExerciseController.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Controllers\\ExerciseController.cs",
+              "RelativeToolTip": "Fitness.WebUI\\Controllers\\ExerciseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:53:48.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Fitness.WebUI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.WebUI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Fitness.WebUI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T18:22:30.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\ApplicationServices\\TokenService.cs",
+              "RelativeDocumentMoniker": "Fitness.Infrastructure\\ApplicationServices\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Infrastructure\\ApplicationServices\\TokenService.cs",
+              "RelativeToolTip": "Fitness.Infrastructure\\ApplicationServices\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:43:47.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateExerciseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Exercises\\Commands\\Handlers\\CreateExerciseHandler.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Exercises\\Commands\\Handlers\\CreateExerciseHandler.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Exercises\\Commands\\Handlers\\CreateExerciseHandler.cs",
+              "RelativeToolTip": "Fitness.Application\\Exercises\\Commands\\Handlers\\CreateExerciseHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:38:14.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UpdateExerciseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Exercises\\Commands\\Handlers\\UpdateExerciseHandler.cs",
+              "RelativeDocumentMoniker": "Fitness.Application\\Exercises\\Commands\\Handlers\\UpdateExerciseHandler.cs",
+              "ToolTip": "C:\\Users\\Kurbanaev\\source\\repos\\Fitness\\Fitness.API\\Fitness.Application\\Exercises\\Commands\\Handlers\\UpdateExerciseHandler.cs",
+              "RelativeToolTip": "Fitness.Application\\Exercises\\Commands\\Handlers\\UpdateExerciseHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:34:04.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
